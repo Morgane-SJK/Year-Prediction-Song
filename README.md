@@ -1,5 +1,7 @@
 # Year-Prediction-Song
 
+*Prediction of the release date of a song and display of the results with an API Flask*
+
 **Date de réalisation :** Janvier 2021
 
 **Cadre du projet :** Cours "Python for Data Analysis" en 4ème année à l’ESILV (2ème année du cycle ingénieur), réalisé en groupe avec Nicolas et Louis-Raphael
